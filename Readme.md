@@ -2,7 +2,7 @@
 
 ### WORK IN PROGRESS ### 
 
-This is a modified version of the [easy-pdk-programmer](https://github.com/free-pdk/easy-pdk-programmer-hardware) with then goal to allow automated assembly using the JLCPCB assembly service. The component selection was tailored to fit the component selection available at the supplier, allowing for an economical way of obtaining a Free-PDK programmer without the need to solder small SMD components. Only a few larger components have to be added by manual soldering at a later time.
+This is a modified version of the [easy-pdk-programmer](https://github.com/free-pdk/easy-pdk-programmer-hardware) with the goal of allowing automated assembly using the JLCPCB assembly service. The component selection was tailored to fit the component selection available at the supplier, allowing for an economical way of obtaining a Free-PDK programmer without the need to solder small SMD components. Only a few larger components have to be added by manual soldering at a later time.
 
 A brief summary of changes that were made:
 
