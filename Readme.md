@@ -19,7 +19,7 @@ Please note that this version of the programmer is not meant for manual assembly
 
 # Ordering instructions
 
-Ordering instructions will be added later
+See [design files](/Design%20Files/) folder.
 
 # Assembly instruction
 
